@@ -10,7 +10,7 @@ node pokerEvaluate.js inputfile outputfile
 
 ```
 
-You also can check reslut by running unit tests. 
+You also can check result by running unit tests. 
 
 Run Test
 -----------
