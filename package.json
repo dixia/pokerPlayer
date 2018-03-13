@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jest": "^22.4.2",
+    "lodash": "^4.17.5",
+    "lodash.combinations": "^18.1.16",
+    "lodash.groupby": "^4.6.0",
+    "lodash.pickby": "^4.6.0",
+    "lodash.uniq": "^4.5.0"
+  },  
+  "scripts": {
+    "test": "jest"
+  }
+}
