@@ -37,7 +37,7 @@ test('parsing a line', () => {
 
 test('parsing a file', () => {
 
-  const cards = parseFile('input_test')
+  const cards = parseFile('input_test_oneline')
   
   expect(cards).toEqual(
     [[
